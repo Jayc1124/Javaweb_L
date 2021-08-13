@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jdbc_Template/Jdbc_Template.iml" filepath="$PROJECT_DIR$/Jdbc_Template/Jdbc_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbdc/jbdc.iml" filepath="$PROJECT_DIR$/jbdc/jbdc.iml" />
+    </modules>
+  </component>
+</project>
